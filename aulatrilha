@@ -1,1 +1,7 @@
-git status
+#usando str
+numero = 5
+print("o numero é "+ str(5))
+#usando f-string
+numero = 5
+print(f"o numero é {5}")
+
